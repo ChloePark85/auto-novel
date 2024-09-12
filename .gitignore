@@ -1,0 +1,8 @@
+.env
+output.png
+final_output_with_intro_outro.mp3
+metadata.md
+script.md
+thumbnail.png
+novelenv/
+__pycache__/
